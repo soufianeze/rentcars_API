@@ -65,7 +65,6 @@ python-dateutil
 python-editor
 pytoml
 pytz
-pywin32
 PyYAML
 querystring-parser
 requests
